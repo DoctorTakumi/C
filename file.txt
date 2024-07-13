@@ -1,0 +1,3 @@
+I am learning C programming language
+C is not the easiest language to learn - I am appending the text to the existing file
+I am adding something in a new row - I am appending the text again - I am appending the text again
